@@ -1,2 +1,2 @@
-# nathanaelambert.github.io
-personal website at: nathanaelambert.github.io
+# Earbrowsing
+[Interactive Prototype](https://nathanaelambert.github.io/nthlmb/earbrowsing/AudioSpace.html)
