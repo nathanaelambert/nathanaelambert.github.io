@@ -1,7 +1,7 @@
 
 ## Projects
 
-### Earbrowsing, 2025
+### Earbrowsing, Spring 2025
 An attempt at developing a new type of screen reader interaction based on audio with spatial cues. It consists of a mini game where you have to find buttons, on a screen and double clic on them. The catch: you are blind and you can only use sound to find where the button are. Move your mouse around the screen to hear the buttons that are close to your mouse.
 #### How does it work ?
 - use a headset, you need **stereo**
