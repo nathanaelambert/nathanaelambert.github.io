@@ -20,6 +20,7 @@ Directional sound is a technical challenge. My solution with a basic stereo head
 A secret identity, table-top, social game for around 10 players. 
 #### 
 [app](https://nathanaelambert.github.io/nthlmb/join-and-quit/index.html)
+[game design document](documents/Join_n_Quit_Character_sheet.pdf)
 ### Outlaws
 
 ### Lausanne ancestry, Fall 2024 - Spring 2025
