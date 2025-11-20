@@ -20,14 +20,14 @@ Directional sound is a technical challenge. My solution with a basic stereo head
 ### Join & Quit, Spring 2025
 A secret identity, real-time (15 min), table-top, social game for around 10 players. 
 #### How to play ?
-- read the rules from the [game design document](https://nathanaelambert.github.io/documents/Join_n_Quit_Game_Design_Document.pdf)
+- read the rules from the [game design document](https://drive.google.com/file/d/1WX7OJ99lTi59mlUJz2xZ1UJMIAEbuE9U/view?usp=sharing))
 - print the [characters](https://drive.google.com/file/d/10z8at-ftEemVybbiq6-Idza_tprMj9O8/view?usp=sharing) and turns them into playing cards using sleeves
 - find 10 players and a room with 3 tables
 - run the timer [app](https://nathanaelambert.github.io/nthlmb/join-and-quit/index.html) on 3 smartphones (one for each table)
 - give each player a card, and a starting table
 - start the timers at the same time    
 #### What about the design process ?
-Checkout the [playtesting notes](https://nathanaelambert.github.io/documents/Join_n_Quit_playtesting_notes.pdf) to see more about the design decisions and game values.
+Checkout the [playtesting notes](https://drive.google.com/file/d/1IiW_YfkqgT3QKzv1Ghw2v5bmlnsMPnSC/view?usp=sharing) to see more about the design decisions and game values.
 
 ### Outlaws
 
