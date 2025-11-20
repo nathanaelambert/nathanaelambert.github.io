@@ -9,7 +9,7 @@ An attempt at developing a new type of screen reader interaction based on audio 
 - press start
 - **close your eyes**
 - use **clic** + **drag** to move in the virtual space
-- **double clic** to select the element 
+- **double clic** to select the element    
 #### Why did I make this ?
 This prototype is a theoretical feature that could be added to a screen reader, to improve accessibility of the web for blind users. The issue with current screen readers is that they are only efficient if the user knows the specific layout of the website/app that they are using. The idea with this project was to allow spatial exploration of a screen through sound. It is inspired by directional sounds in video game. Watch. [this video](https://youtu.be/sBLmSlFco9A) to get an example of how it could be used. Checkout the [GitHub](https://github.com/nathanaelambert/nthlmb/tree/main/earbrowsing) for implementation details.
 #### What did I learn from this project ?
@@ -25,7 +25,7 @@ A secret identity, real-time (15 min), table-top, social game for around 10 play
 - find 10 players and a room with 3 tables
 - run the timer [app](https://nathanaelambert.github.io/nthlmb/join-and-quit/index.html) on 3 smartphones (one for each table)
 - give each player a card, and a starting table
-- start the timers at the same time
+- start the timers at the same time    
 #### What about the design process ?
 Checkout the [playtesting notes](https://nathanaelambert.github.io/documents/Join_n_Quit_playtesting_notes.pdf) to see more about the design decisions and game values.
 
