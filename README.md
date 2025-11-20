@@ -21,7 +21,7 @@ Directional sound is a technical challenge. My solution with a basic stereo head
 A secret identity, real-time (15 min), table-top, social game for around 10 players. 
 #### How to play ?
 - read the rules from the [game design document](https://nathanaelambert.github.io/documents/Join_n_Quit_Game_Design_Document.pdf)
-- print the [characters](https://nathanaelambert.github.io/documents/Join_n_Quit_Character_sheet.pdf) and turns them into playing cards using sleeves
+- print the [characters](https://drive.google.com/file/d/10z8at-ftEemVybbiq6-Idza_tprMj9O8/view?usp=sharing) and turns them into playing cards using sleeves
 - find 10 players and a room with 3 tables
 - run the timer [app](https://nathanaelambert.github.io/nthlmb/join-and-quit/index.html) on 3 smartphones (one for each table)
 - give each player a card, and a starting table
