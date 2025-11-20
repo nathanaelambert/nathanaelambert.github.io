@@ -1,3 +1,4 @@
+
 ## Projects
 ### Earbrowsing, 2025
 An attempt at developing a new type of screen reader interaction based on audio with spatial cues. It consists of a mini game where you have to find buttons, on a screen and double clic on them. The catch: you are blind and you can only use sound to find where the button are. Move your mouse around the screen to hear the buttons that are close to your mouse.
@@ -16,6 +17,9 @@ Directional sound is a technical challenge. My solution with a basic stereo head
 
 ### Lumartix's website, Summer 2025 - Fall 2025
 ### Join & Quit, Spring 2025
+A secret identity, table-top, social game for around 10 players. 
+#### 
+[app](https://nathanaelambert.github.io/nthlmb/join-and-quit/index.html)
 ### Outlaws
 
 ### Lausanne ancestry, Fall 2024 - Spring 2025
@@ -27,3 +31,6 @@ Directional sound is a technical challenge. My solution with a basic stereo head
 [website](https://fht-epfl.github.io/adawebsite/#research-questions)
 [GitHub](https://github.com/epfl-ada/ada-2024-project-tada2024)
 
+
+## Other
+[This GitHub](https://github.com/nathanaelambert/nathanaelambert.github.io)
