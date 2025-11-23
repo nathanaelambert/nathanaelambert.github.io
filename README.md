@@ -32,8 +32,13 @@ Checkout the [playtesting notes](https://drive.google.com/file/d/1IiW_YfkqgT3QKz
 ### Outlaws
 
 ### Lausanne ancestry, Fall 2024 - Spring 2025
-### Irish fiddle music
+### Patterns In Irish folk music, Spring 2025
+Exploring the patterns and structural complexity within Irish folk music, particularly examining how this music has been transmitted orally over generations.
+Read the [paper](https://drive.google.com/file/d/1onukI6nVeFMksFz-6eHoneYF9WEYo_yF/view?usp=sharing) to learn more.
+
 ### Widows of Venice in 1740, Fall 2024
+Investigating the socio-economic status and property dynamics of widows in the 18th- and early 19th-century Venice.
+Read the [wiki](https://fdh.epfl.ch/index.php/Widows_in_Venice) to learn more.
 
 ### Emotion fluctuation through Wikispeedia, Fall 2024
 [website](https://fht-epfl.github.io/adawebsite/#research-questions)
