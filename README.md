@@ -29,17 +29,27 @@ A secret identity, real-time (15 min), table-top, social game for around 10 play
 #### What about the design process ?
 Checkout the [playtesting notes](https://drive.google.com/file/d/1IiW_YfkqgT3QKzv1Ghw2v5bmlnsMPnSC/view?usp=sharing) to see more about the design decisions and game values.
 
+### Swiss architecture competitions, Spring 2025
+This project aims to provide researchers with a new framework for studying large-scale corpora of architecture competitions, particularly in the Swiss context. Read the full [report](https://drive.google.com/file/d/17dtr0puHyM4aFz38q6QuZIiFp9FY1YQ9/view?usp=sharing). Check the [source code](https://github.com/ccpfoye/SwissArchitectureCompetitions).
+
+### Liberals and Conservatives on Reddit, Spring 2025
+Exploring sentiments and topic discussed across different political subreddits. Read the full [report](https://drive.google.com/file/d/1d5OGSxcee0PHoHvrRWZF8SpILDHv-bd_/view?usp=sharing). Check the [source code](https://github.com/nathanaelambert/ConservativesLiberals).
+
+### Mudras: When silence speaks, Spring 2025
+A digital exhibition concept featuring 3D Buddhist and Hindu statues. Read the full [report](https://drive.google.com/file/d/1Lnf8Tg7LMUr2FJWpjAMYgEJCEc5uJ8Ko/view?usp=sharing).
+
 ### Outlaws
 
 ### Lausanne ancestry, Fall 2024 - Spring 2025
+Exploring social reproduction dynamics in 19th century Lausanne. Check the full [report (website)](https://lausanneancestry.github.io/).
 
 ### Patterns In Irish folk music, Spring 2025
 Exploring the patterns and structural complexity within Irish folk music, particularly examining how this music has been transmitted orally over generations.
-Read the [paper](https://drive.google.com/file/d/1onukI6nVeFMksFz-6eHoneYF9WEYo_yF/view?usp=sharing) to learn more.
+Read the [paper](https://drive.google.com/file/d/1onukI6nVeFMksFz-6eHoneYF9WEYo_yF/view?usp=sharing) to learn more. Private [source code](https://github.com/DCMLab/dh401-group-project-group-g).
 
 ### Widows of Venice in 1740, Fall 2024
 Investigating the socio-economic status and property dynamics of widows in the 18th- and early 19th-century Venice.
-Read the [wiki](https://fdh.epfl.ch/index.php/Widows_in_Venice) to learn more.
+Read the [wiki](https://fdh.epfl.ch/index.php/Widows_in_Venice) to learn more. Private [source code](https://github.com/nathanaelambert/rich-widows).
 
 ### Emotion fluctuation through Wikispeedia, Fall 2024
 Exploring the evolution of player's emotions while playing [Wikispeedia](https://dlab.epfl.ch/wikispeedia/play/). Check the full [report (website)](https://fht-epfl.github.io/adawebsite/#research-questions). View the [source code](https://github.com/epfl-ada/ada-2024-project-tada2024).
